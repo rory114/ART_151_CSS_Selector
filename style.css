@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.sketchLink{
+  position:absolute;
+}
+
+.centerAlign {
+  color:blue;
+  text-align: center;
+  font-family: serif;
+  font-size: 32;
+}
+
+.rightAlign {
+  text-align: right;
+  color: green;
+  font-family: monospace;
+  font-size: 24;
+}
+
+.leftAlign {
+  text-align: left;
+  color: red;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 48;
+}
